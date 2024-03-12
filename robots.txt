@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://thr777.perlkohacon.fi/sitemap.xml
